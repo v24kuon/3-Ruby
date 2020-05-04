@@ -19,3 +19,7 @@ elsif apple == "Yamagata"
 else
     puts "りんごの生産地は青森です"
 end
+
+puts "キーボードから何か入力してみましょう"
+input_key = gets
+puts "入力された内容は"+input_key
