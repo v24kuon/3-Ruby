@@ -10,3 +10,5 @@ puts webcamp
 
 Pi = 3.14
 puts Pi
+
+puts 100
